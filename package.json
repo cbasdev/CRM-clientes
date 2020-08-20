@@ -1,0 +1,26 @@
+{
+  "name": "crm-clientes",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000R\u0000M\u0000-\u0000c\u0000l\u0000i\u0000e\u0000n\u0000t\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasttianVelez/CRM-clientes.git"
+  },
+  "author": "sebasttianvelez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebasttianVelez/CRM-clientes/issues"
+  },
+  "homepage": "https://github.com/SebasttianVelez/CRM-clientes#readme",
+  "dependencies": {
+    "apollo-server": "^2.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
