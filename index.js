@@ -8,7 +8,6 @@ const server = new ApolloServer({
   resolvers,
 })
 
-console.log('asdsa')
 // Run Server
 server.listen().then(({ url }) => {
   console.log(`Servidor listo en la URL ${url}`)
